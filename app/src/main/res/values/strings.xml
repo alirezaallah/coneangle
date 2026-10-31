@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محاسبه زاویه مخروط</string>
+    <string name="label_big_diameter">قطر بزرگ</string>
+    <string name="label_small_diameter">قطر کوچک</string>
+    <string name="label_distance">فاصله دو قطر</string>
+    <string name="calculate">محاسبه زاویه</string>
+    <string name="result">زاویه = %1$s درجه</string>
+    <string name="unit_mm">میلی‌متر</string>
+    <string name="error_required">این مقدار را وارد کنید</string>
+    <string name="error_not_number">عدد معتبر نیست</string>
+    <string name="error_distance_positive">فاصله دو قطر باید بزرگ‌تر از صفر باشد</string>
+</resources>
